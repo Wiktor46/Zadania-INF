@@ -1,0 +1,3 @@
+C:/Users/Konto sronto/Desktop/kołd/heron 2 - Copy/cmake-build-debug/CMakeFiles/heron_2.dir
+C:/Users/Konto sronto/Desktop/kołd/heron 2 - Copy/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Konto sronto/Desktop/kołd/heron 2 - Copy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
