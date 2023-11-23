@@ -1,0 +1,3 @@
+C:/Users/Konto sronto/Desktop/kołd/z26/cmake-build-debug/CMakeFiles/z26.dir
+C:/Users/Konto sronto/Desktop/kołd/z26/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Konto sronto/Desktop/kołd/z26/cmake-build-debug/CMakeFiles/rebuild_cache.dir
